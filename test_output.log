@@ -1,0 +1,9 @@
+==========================================
+Config Manager E2E Test Suite
+==========================================
+
+⏳ Waiting for service to be ready...
+[0;32m✓[0m Service is ready!
+
+=== Test 1: Health Check ===
+[0;32m✓[0m Health check endpoint
